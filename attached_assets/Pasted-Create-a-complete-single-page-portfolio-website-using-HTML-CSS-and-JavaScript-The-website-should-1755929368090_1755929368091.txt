@@ -1,0 +1,68 @@
+Create a complete, single-page portfolio website using HTML, CSS, and JavaScript. The website should be fully responsive and designed with a futuristic, minimalist, black-and-white theme.
+
+Theme & Style:
+
+Color Palette: Strictly black and white. Use black as the background (#000000) and white (#FFFFFF) for text and accents.
+
+Typography: Use the 'Inter' font from Google Fonts. Headings should be bold and larger, while body text should be clean and readable.
+
+Layout: A modern, clean, single-page layout with smooth scrolling between sections. Use generous white space and a clear visual hierarchy.
+
+Futuristic Elements: Incorporate subtle animations on scroll, hover effects on links and buttons, and a simple, clean loading animation. Avoid anything too flashy.
+
+Website Structure & Content:
+Please use the information from this LinkedIn profile to populate the content: https://www.linkedin.com/in/laksshmi-narayanan-p
+
+Navigation Bar: A fixed navigation bar at the top with links that smoothly scroll to the following sections: Home, About, Experience, Projects, Contact.
+
+Hero Section (Home):
+
+A full-screen section.
+
+Main Heading: "Laksshmi Narayanan P"
+
+Subheading: [Your professional title from LinkedIn, e.g., "Software Engineer" or "Aspiring Developer"]
+
+A call-to-action button that says "View My Work" and scrolls to the Projects section.
+
+About Section:
+
+A brief, engaging summary. Use the "About" section from the LinkedIn profile as the source text.
+
+Experience Section:
+
+Display work experience in a clean, vertical timeline format.
+
+For each job, include: Job Title, Company Name, and Dates of Employment.
+
+Projects Section:
+
+A grid or card-based layout to showcase 3-4 of your best projects.
+
+If projects aren't listed on LinkedIn, create placeholder project cards with:
+
+Project Name (e.g., "Project Alpha," "Project Beta")
+
+A brief description (2-3 sentences).
+
+Links for "Live Demo" and "GitHub" (use # for the links).
+
+Contact Section:
+
+A simple and direct way for people to connect.
+
+Include clickable icons/links for:
+
+LinkedIn (use the provided URL)
+
+GitHub (use a placeholder URL like https://github.com/your-username)
+
+Email (use a placeholder like mailto:your-email@example.com)
+
+Technical Requirements:
+
+Create three separate files: index.html, style.css, and script.js.
+
+Ensure the code is well-commented.
+
+The final website must be fully responsive and function perfectly on desktop, tablet, and mobile devices.
