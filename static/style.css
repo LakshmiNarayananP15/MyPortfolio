@@ -1251,6 +1251,14 @@ section {
     }
 }
 
+/* Very small mobile devices */
+@media (max-width: 360px) {
+    .hero-title {
+        font-size: 1.8rem;
+        line-height: 1.1;
+    }
+}
+
 @media (max-width: 480px) {
     .container {
         padding: 0 15px;
@@ -1261,7 +1269,8 @@ section {
     }
 
     .hero-title {
-        font-size: 2.5rem;
+        font-size: 2rem;
+        line-height: 1.2;
     }
 
     .hero-subtitle {
